@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imCsCorp](https://github.com/imCsCorp)
 
-- 💬 Ask me about **react, angular, nestjs**
+- 💬 Ask me about **react, angular, nestjs, Java, Spring Boot**
 
 - 📫 How to reach me **camilo.alejandro.soto.v@gmail.com**
 
